@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+        "email":"maksicnena@gmail.com",
+		"ime": "Nevena",
+		"prezime": "Maksić",
+		"jmbg": "0312000543256",
+		"br_racuna": "32564738390022"
+	},
+	{
+		"id": 2,
+        "email":"kovacec@gmail.com",
+		"ime":"Jovan",
+		"prezime": "Kovačec",
+		"jmbg": "044000828636",
+		"br_racuna": "325647382302302"
+	},
+	{
+		"id": 3,
+        "email":"sebastian@gmail.com",
+		"ime": "Sebastijan",
+		"prezime": "Vlatković",
+		"jmbg": "99000283783",
+		"br_racuna": "282382884784"
+	},
+	{
+		"id": 4,
+        "email":"misspetrovic@gmail.com",
+		"ime": "Ana",
+		"prezime": "Petrović",
+		"jmbg": "044000828273",
+		"br_racuna": "325647234290022"
+	},
+	{
+		"id": 5,
+        "email":"nixy@gmail.com",
+		"ime": "Nikolija",
+		"prezime": "Stankovićgit ",
+		"jmbg": "1012000747897",
+		"br_racuna": "84894738390022"
+	}
+]
